@@ -26,6 +26,11 @@ set softtabstop=2
 set expandtab
 retab
 
+nnoremap tn :tabnew<Space>
+nnoremap tl :tabnext<CR> 
+nnoremap tn :tabprev<CR>
+nnoremap tq :tabclose<CR>
+
 function! GitBranch()
   return system("git rev-parse --abbrev-ref HEAD 2>/dev/null | tr -d '\n'")
 endfunction
@@ -48,7 +53,6 @@ set statusline+=\[%{&fileformat}\]
 set statusline+=\ %p%%
 set statusline+=\ %l:%c
 set statusline+=\
-
 
 call plug#begin('~/.vim/plugged')
 
