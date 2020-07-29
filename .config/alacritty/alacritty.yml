@@ -1,0 +1,14 @@
+font:
+  normal:
+    family: "SFMono"
+    style: regular
+  
+  bold:
+    family: "SFMono"
+    style: Bold
+
+  italic:
+    family: "SFMono"
+    style: Italic
+
+  size: 10

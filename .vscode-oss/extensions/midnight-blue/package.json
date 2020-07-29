@@ -1,0 +1,21 @@
+{
+    "name": "midnight-blue",
+    "displayName": "Midnight Blue",
+    "description": "atom sytax highlighting with darker blue background",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Blue-color-theme.json"
+            }
+        ]
+    }
+}

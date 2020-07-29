@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/cleggacus/Documents/node/cleggcoin/src'
+let g:netrw_dirhist_0='/home/cleggacus/Documents/node/cleggcoin'
+let g:netrw_dirhist_9='/home/cleggacus/Documents/node/cleggcoin/client/src/components'
+let g:netrw_dirhist_8='/home/cleggacus/Documents/node/cleggcoin/client/src/components/navbar'
+let g:netrw_dirhist_7='/home/cleggacus/Documents/node/cleggcoin/client/src/components'
+let g:netrw_dirhist_6='/home/cleggacus/Documents/node/cleggcoin/client/src'
+let g:netrw_dirhist_5='/home/cleggacus/Documents/node/cleggcoin/client/src/components'
+let g:netrw_dirhist_4='/home/cleggacus/Documents/node/cleggcoin/client/src/components/navbar'
+let g:netrw_dirhist_3='/home/cleggacus/Documents/node/cleggcoin/src'
+let g:netrw_dirhist_2='/home/cleggacus/Documents/node/cleggcoin'

@@ -1,0 +1,16 @@
+body{
+    --yt-spec-brand-background-solid: #020818;
+    --yt-spec-brand-background-primary: #020818;
+    --yt-spec-general-background-a: #101625;
+    --yt-dark-surface-100: #101625;
+
+}
+
+
+#search-form #containercontainer{
+    border-radius: 100px 0 0 100px;
+}
+
+#search-icon-legacy{
+    border-radius: 0 100px 100px 0;
+}
